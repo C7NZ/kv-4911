@@ -2,8 +2,8 @@ Discord / kv#4911
 
 
 Eclipse Source [New]
-https://raw.githubusercontent.com/C7NZ/kv-4911/main/kr
+loadstring(game:HttpGet("https://raw.githubusercontent.com/C7NZ/kv-4911/main/kr"))()
 
 
 YunV2 Source [New]
-https://raw.githubusercontent.com/C7NZ/kv-4911/main/Kid
+loadstring(game:HttpGet("https://raw.githubusercontent.com/C7NZ/kv-4911/main/Kid"))()
