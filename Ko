@@ -1,9 +1,13 @@
 Discord / 29x#8364 
 
 
-Eclipse Source [New]
+Eclipse Source
 loadstring(game:HttpGet("https://raw.githubusercontent.com/C7NZ/kv-4911/main/kr"))()
 
 
-YunV2 Source [New]
+YunV2 Source
 loadstring(game:HttpGet("https://raw.githubusercontent.com/C7NZ/kv-4911/main/Kid"))()
+
+
+Azure Source
+loadstring(game:HttpGet("https://raw.githubusercontent.com/C7NZ/kv-4911/main/sd2"))()
